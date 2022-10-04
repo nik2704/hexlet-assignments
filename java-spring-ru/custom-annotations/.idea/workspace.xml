@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae63235a-51f4-401a-b2cb-c7a61fe88774" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java-spring-ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authentication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../authentication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authentication/src/main/java/exercise/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authentication/src/main/java/exercise/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filtration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../filtration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filtration/src/main/java/exercise/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../filtration/src/main/java/exercise/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finite-state-machine/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../finite-state-machine/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nested-resources/hexlet.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../nested-resources/hexlet.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../open-api/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../open-api/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/controller/CityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/controller/CityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/repository/CityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/repository/CityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/service/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service-layer/src/main/java/exercise/service/WeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trees/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../trees/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trees/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../trees/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="custom-annotations" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FfXRtmQKVy1a4jgJFW0Z3s8ayS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="custom-annotations [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.custom-annotations [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae63235a-51f4-401a-b2cb-c7a61fe88774" name="Changes" comment="" />
+      <created>1664884111912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664884111912</updated>
+    </task>
+    <servers />
+  </component>
+</project>
